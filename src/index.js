@@ -45,7 +45,6 @@ const addSubmitListener = () => {
 
     ramenMenu.appendChild(ramenImage);
 
-    // Optionally, clear the form after submission
     form.reset();
 
   })
